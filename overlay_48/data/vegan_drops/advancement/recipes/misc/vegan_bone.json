@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vegan_drops:vegan_bone"
+      }
+    },
+    "has_bone_meal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bone_meal"
+          }
+        ]
+      }
+    },
+    "has_mirrored_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vegan_drops:vegan_bone_mirrored"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_bone_meal",
+      "has_mirrored_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vegan_drops:vegan_bone",
+      "vegan_drops:vegan_bone_mirrored"
+    ]
+  },
+  "sends_telemetry_event": false
+}
