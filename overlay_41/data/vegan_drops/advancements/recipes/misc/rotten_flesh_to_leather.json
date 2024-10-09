@@ -1,0 +1,49 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vegan_drops:smelt_rotten_flesh_to_leather"
+      }
+    },
+    "has_rotten_flesh": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:rotten_flesh"]
+          }
+        ]
+      }
+    },
+    "has_the_recipe_smoker": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vegan_drops:smoke_rotten_flesh_to_leather"
+      }
+    },
+    "has_the_recipe_campfire": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "vegan_drops:campfire_rotten_flesh_to_leather"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_rotten_flesh",
+      "has_the_recipe_smoker",
+      "has_the_recipe_campfire"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vegan_drops:smelt_rotten_flesh_to_leather",
+      "vegan_drops:smoke_rotten_flesh_to_leather",
+      "vegan_drops:campfire_rotten_flesh_to_leather"
+    ]
+  },
+  "sends_telemetry_event": false
+}
