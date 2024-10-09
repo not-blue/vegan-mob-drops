@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light_blue_terracotta"
+    },
+    "title": "notblue",
+    "description": "modrinth.com/user/notblue",
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}
