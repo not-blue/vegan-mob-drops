@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " A ",
+    "ABA",
+    "CAC"
+  ],
+  "key": {
+    "A": "minecraft:seagrass",
+    "B": "minecraft:bone_block",
+    "C": "minecraft:bone_meal"
+  },
+  "result": {
+    "id": "minecraft:turtle_scute",
+    "count": 4
+  }
+}

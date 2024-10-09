@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "ink_sac",
+  "pattern": [
+    "BBB",
+    "BBB",
+    "SL "
+  ],
+  "key": {
+    "B": "minecraft:black_dye",
+    "S": "minecraft:string",
+    "L": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:ink_sac",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "vegan_string",
+  "pattern": [
+    "W  ",
+    " W ",
+    "  W"
+  ],
+  "key": {
+    "W": "minecraft:wheat"
+  },
+  "result": {
+    "id": "minecraft:string",
+    "count": 2
+  }
+}
