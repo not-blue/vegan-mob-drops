@@ -4,39 +4,29 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_ink_sac"
+        "recipe": "vegan_drops:vegan_rabbit_foot"
       }
     },
-    "has_black_dye": {
+    "has_rabbit_hide": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": [
-              "minecraft:black_dye"
-            ]
+            "items": "minecraft:rabbit_hide"
           }
         ]
-      }
-    },
-    "has_the_recipe_mirror": {
-      "trigger": "minecraft:recipe_unlocked",
-      "conditions": {
-        "recipe": "vegan_drops:vegan_ink_sac_2"
       }
     }
   },
   "requirements": [
     [
       "has_the_recipe",
-      "has_black_dye",
-      "has_the_recipe_mirror"
+      "has_rabbit_hide"
     ]
   ],
   "rewards": {
     "recipes": [
-      "vegan_drops:vegan_ink_sac",
-      "vegan_drops:vegan_ink_sac_2"
+      "vegan_drops:vegan_rabbit_foot"
     ]
   },
   "sends_telemetry_event": false

@@ -20,7 +20,7 @@
     "has_the_recipe_mirror": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_ink_sac_mirrored"
+        "recipe": "vegan_drops:vegan_ink_sac_2"
       }
     }
   },
@@ -34,7 +34,7 @@
   "rewards": {
     "recipes": [
       "vegan_drops:vegan_ink_sac",
-      "vegan_drops:vegan_ink_sac_mirrored"
+      "vegan_drops:vegan_ink_sac_2"
     ]
   },
   "sends_telemetry_event": false

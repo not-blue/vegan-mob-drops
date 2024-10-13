@@ -1,34 +1,36 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_the_recipe": {
+    "has_the_wheat_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_glow_ink_sac"
+        "recipe": "vegan_drops:string_from_wheat"
       }
     },
-    "has_mirrored_recipe": {
+    "has_the_wool_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_glow_ink_sac_2"
+        "recipe": "vegan_drops:string_from_wool"
       }
     },
-    "has_glowstone_dust": {
+    "has_wheat": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": "minecraft:glowstone_dust"
+            "items": [
+              "minecraft:wheat"
+            ]
           }
         ]
       }
     },
-    "has_glow_berries": {
-      "trigger": "minecraft:inventory_changed",
+    "has_wool": {
+      "trigger":"minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "items": "minecraft:glow_berries"
+            "tag": "minecraft:wool"
           }
         ]
       }
@@ -36,16 +38,16 @@
   },
   "requirements": [
     [
-      "has_the_recipe",
-      "has_mirrored_recipe",
-      "has_glowstone_dust",
-      "has_glow_berries"
+      "has_the_wheat_recipe",
+      "has_the_wool_recipe",
+      "has_wheat",
+      "has_wool"
     ]
   ],
   "rewards": {
     "recipes": [
-      "vegan_drops:vegan_glow_ink_sac",
-      "vegan_drops:vegan_glow_ink_sac_2"
+      "vegan_drops:string_from_wheat",
+      "vegan_drops:string_from_wool"
     ]
   },
   "sends_telemetry_event": false

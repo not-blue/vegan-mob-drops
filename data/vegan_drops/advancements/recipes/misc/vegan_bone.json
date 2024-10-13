@@ -22,7 +22,7 @@
     "has_mirrored_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_bone_mirrored"
+        "recipe": "vegan_drops:vegan_bone_2"
       }
     }
   },
@@ -36,7 +36,7 @@
   "rewards": {
     "recipes": [
       "vegan_drops:vegan_bone",
-      "vegan_drops:vegan_bone_mirrored"
+      "vegan_drops:vegan_bone_2"
     ]
   },
   "sends_telemetry_event": false
