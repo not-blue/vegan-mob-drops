@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_feathers"
+        "recipe": "vegan_drops:vegan_feather"
       }
     },
     "has_paper": {
@@ -12,7 +12,9 @@
       "conditions": {
         "items": [
           {
-            "items": "minecraft:paper"
+            "items": [
+              "minecraft:paper"
+            ]
           }
         ]
       }
@@ -26,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "vegan_drops:vegan_feathers"
+      "vegan_drops:vegan_feather"
     ]
   },
   "sends_telemetry_event": false
