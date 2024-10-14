@@ -3,14 +3,11 @@
   "category": "misc",
   "group": "glow_ink_sac",
   "pattern": [
-    "BBB",
-    "BBB",
-    "SLG"
+    "GGG",
+    "GGG",
+    "SL "
   ],
   "key": {
-    "B": {
-      "item": "minecraft:black_dye"
-    },
     "G": [
       {
         "item": "minecraft:glow_berries"
