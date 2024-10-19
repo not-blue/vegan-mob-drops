@@ -5,30 +5,21 @@
       "min_inclusive": 15,
       "max_inclusive": 99
     },
-    "description": "Craft peaceful mob drops with vegan ingredients."
+    "description": "Craft peaceful mob drops with vegan ingredients"
   },
   "overlays": {
     "entries": [
       {
-        "formats": {
-          "min_inclusive": 34,
-          "max_inclusive": 41
-        },
+        "formats": 41,
         "directory": "overlay_41"
       },
       {
-        "formats": {
-          "min_inclusive": 42,
-          "max_inclusive": 48
-        },
+        "formats": 48,
         "directory": "overlay_48"
       },
       {
-        "formats": {
-          "min_inclusive": 49,
-          "max_inclusive": 99
-        },
-        "directory": "overlay_1.21.2"
+        "formats": 57,
+        "directory": "overlay_57"
       }
     ]
 }

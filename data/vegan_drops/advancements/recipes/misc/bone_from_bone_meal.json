@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_bone"
+        "recipe": "vegan_drops:bone_from_bone_meal"
       }
     },
     "has_bone_meal": {
@@ -22,7 +22,7 @@
     "has_mirrored_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_bone_2"
+        "recipe": "vegan_drops:bone_from_bone_meal_2"
       }
     }
   },
@@ -35,8 +35,8 @@
   ],
   "rewards": {
     "recipes": [
-      "vegan_drops:vegan_bone",
-      "vegan_drops:vegan_bone_2"
+      "vegan_drops:bone_from_bone_meal",
+      "vegan_drops:bone_from_bone_meal_2"
     ]
   },
   "sends_telemetry_event": false
