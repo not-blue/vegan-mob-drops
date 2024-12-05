@@ -2,3 +2,6 @@ Pack name:  Vegan Mob Drops
 Pack URL:   https://modrinth.com/datapack/vegan-mob-drops
 Author:     Nicole / notblue / nicoleisnotblue
 Author URL: https://modrinth.com/user/notblue   
+
+Data pack built with Misode Data Pack Generator (https://misode.github.io/).
+Pack maintained using Visual Studio Code.
