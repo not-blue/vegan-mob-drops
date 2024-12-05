@@ -5,7 +5,7 @@
     "minecraft:potion",
     "minecraft:sugar",
     "minecraft:sugar",
-    "#minecraft:small_flowers"
+    "#vegan_drops:small_flowers"
   ],
   "result": {
     "id": "minecraft:honey_bottle"
