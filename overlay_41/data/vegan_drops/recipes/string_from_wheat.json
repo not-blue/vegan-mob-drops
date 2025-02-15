@@ -11,10 +11,13 @@
     },
     {
       "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
     }
   ],
   "result": {
     "id": "minecraft:string",
-    "count": 2
+    "count": 3
   }
 }

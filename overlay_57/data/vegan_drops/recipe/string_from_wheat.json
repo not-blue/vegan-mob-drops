@@ -5,10 +5,11 @@
  "ingredients": [
     "minecraft:wheat",
     "minecraft:wheat",
+    "minecraft:wheat",
     "minecraft:wheat"
   ],
   "result": {
     "id": "minecraft:string",
-    "count": 2
+    "count": 3
   }
 }
