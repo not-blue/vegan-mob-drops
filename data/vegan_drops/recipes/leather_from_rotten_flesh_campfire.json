@@ -4,7 +4,7 @@
   "ingredient": {
     "item": "minecraft:rotten_flesh"
   },
-  "result": "minecraft:rotten_flesh",
+  "result": "minecraft:leather",
   "experience": 0.2,
   "cookingtime": 600
 }
