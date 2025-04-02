@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:honey_block",
+    "minecraft:seagrass",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "minecraft:slime_block"
+  }
+}

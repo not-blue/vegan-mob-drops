@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "HHH",
+    "BBB",
+    "HHH"
+  ],
+  "key": {
+    "H": "minecraft:honey_block",
+    "B": "minecraft:bone_meal"
+  },
+  "result": {
+    "id": "minecraft:honeycomb",
+    "count": 3
+  }
+}

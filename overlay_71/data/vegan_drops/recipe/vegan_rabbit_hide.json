@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "rabbit_hide",
+  "pattern": [
+    "PSP",
+    "SHS",
+    "PSP"
+  ],
+  "key": {
+    "P": "minecraft:paper",
+    "H": "minecraft:honeycomb",
+    "S": "minecraft:string"
+  },
+  "result": {
+    "id": "minecraft:rabbit_hide"
+  }
+}

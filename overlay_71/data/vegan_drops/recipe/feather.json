@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:string"
+  ],
+  "result": {
+    "id": "minecraft:feather"
+  }
+}

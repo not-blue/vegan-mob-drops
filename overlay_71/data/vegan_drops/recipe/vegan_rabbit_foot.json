@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "HHH",
+    "HBH",
+    "HHH"
+  ],
+  "key": {
+    "H": "minecraft:rabbit_hide",
+    "B": "minecraft:bone"
+  },
+  "result": {
+    "id": "minecraft:rabbit_foot"
+  }
+}
