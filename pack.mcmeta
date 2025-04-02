@@ -3,33 +3,15 @@
     "pack_format":15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 999
+      "max_inclusive": 41
     },
-    "description": "Craft peaceful mob drops with vegan ingredients"
+    "description": "Craft peaceful mob drops with vegan ingredients. For Minecraft 1.20-1.20.6."
   },
   "overlays": {
     "entries": [
       {
         "formats": 41,
         "directory": "overlay_41"
-      },
-      {
-        "formats": 48,
-        "directory": "overlay_48"
-      },
-      {
-        "formats": {
-          "min_inclusive": 57,
-          "max_inclusive": 70
-        },
-        "directory": "overlay_57"
-      },
-      {
-        "formats": {
-          "min_inclusive": 71,
-          "max_inclusive": 999
-        },
-        "directory": "overlay_71"
       }
     ]
 }
