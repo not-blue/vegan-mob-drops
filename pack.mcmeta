@@ -1,18 +1,18 @@
 {
   "pack": {
-    "pack_format":48,
+    "pack_format": 48,
     "supported_formats": {
       "min_inclusive": 48,
       "max_inclusive": 999
     },
-    "description": "Craft peaceful mob drops with vegan ingredients. For Minecraft 1.21+."
+    "description": "Craft drops from peaceful mobs with vegan ingredients."
   },
   "overlays": {
     "entries": [
       {
         "formats": {
-          "min_inclusive": 48,
-          "max_inclusive": 70
+          "min_inclusive": 57,
+          "max_inclusive": 999
         },
         "directory": "overlay_57"
       },
