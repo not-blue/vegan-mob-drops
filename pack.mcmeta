@@ -3,10 +3,10 @@
     "pack_format": 48,
     "supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 88
+      "max_inclusive": 95
     },
     "min_format": [48, 0],
-    "max_format": [88, 0],
+    "max_format": [95, 0],
     "description": "Craft drops from peaceful mobs with vegan ingredients."
   },
   "overlays": {
@@ -14,19 +14,19 @@
       {
         "formats": {
           "min_inclusive": 57,
-          "max_inclusive": 88
+          "max_inclusive": 95
         },
         "min_format": [57, 0],
-        "max_format": [88, 0],
+        "max_format": [95, 0],
         "directory": "overlay_57"
       },
       {
         "formats": {
           "min_inclusive": 71,
-          "max_inclusive": 88
+          "max_inclusive": 95
         },
         "min_format": [71, 0],
-        "max_format": [88, 0],
+        "max_format": [95, 0],
         "directory": "overlay_71"
       }
     ]
