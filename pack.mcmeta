@@ -6,7 +6,7 @@
       "max_inclusive": 999
     },
     "min_format": [48, 0],
-    "max_format": [95, 0],
+    "max_format": [999, 0],
     "description": "Craft drops from peaceful mobs with vegan ingredients."
   },
   "overlays": {
