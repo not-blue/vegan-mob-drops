@@ -17,26 +17,6 @@
         ]
       }
     },
-    "has_glass_bottle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": "minecraft:glass_bottle"
-          }
-        ]
-      }
-    },
-    "has_water_bottle": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          {
-            "items": "minecraft:potion"
-          }
-        ]
-      }
-    },
     "has_flower": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -52,8 +32,6 @@
     [
       "has_the_recipe",
       "has_sugar",
-      "has_glass_bottle",
-      "has_water_bottle",
       "has_flower"
     ]
   ],
