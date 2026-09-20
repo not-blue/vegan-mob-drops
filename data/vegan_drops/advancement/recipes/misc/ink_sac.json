@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_ink_sac"
+        "recipes": "vegan_drops:vegan_ink_sac"
       }
     },
     "has_black_dye": {
@@ -20,7 +20,7 @@
     "has_the_recipe_mirror": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_ink_sac_2"
+        "recipes": "vegan_drops:vegan_ink_sac_2"
       }
     }
   },

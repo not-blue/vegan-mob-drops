@@ -2,18 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:potion"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "item": "minecraft:sugar"
-    },
-    {
-      "tag": "vegan_drops:small_flowers"
-    }
+    "minecraft:potion",
+    "minecraft:sugar",
+    "minecraft:sugar",
+    "#vegan_drops:small_flowers"
   ],
   "result": {
     "id": "minecraft:honey_bottle"

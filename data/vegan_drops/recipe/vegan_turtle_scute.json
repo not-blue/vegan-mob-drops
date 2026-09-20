@@ -7,15 +7,9 @@
     "CAC"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:seagrass"
-    },
-    "B": {
-      "item": "minecraft:bone_block"
-    },
-    "C": {
-      "item": "minecraft:bone_meal"
-    }
+    "A": "minecraft:seagrass",
+    "B": "minecraft:bone_block",
+    "C": "minecraft:bone_meal"
   },
   "result": {
     "id": "minecraft:turtle_scute",

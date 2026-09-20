@@ -1,19 +1,11 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "category": "food",
+  "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:carrot"
-    },
-    {
-      "item": "minecraft:seagrass"
-    },
-    {
-      "item": "minecraft:seagrass"
-    },
-    {
-      "item": "minecraft:bone_meal"
-    }
+    "minecraft:carrot",
+    "minecraft:seagrass",
+    "minecraft:seagrass",
+    "minecraft:bone_meal"
   ],
   "result": {
     "id": "minecraft:tropical_fish"

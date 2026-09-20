@@ -4,13 +4,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_glow_ink_sac"
+        "recipes": "vegan_drops:vegan_glow_ink_sac"
       }
     },
     "has_mirrored_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_glow_ink_sac_2"
+        "recipes": "vegan_drops:vegan_glow_ink_sac_2"
       }
     },
     "has_glowstone_dust": {

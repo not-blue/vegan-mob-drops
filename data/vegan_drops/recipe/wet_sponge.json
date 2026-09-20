@@ -7,21 +7,11 @@
     "FWF"
   ],
   "key": {
-    "B": {
-      "item": "minecraft:water_bucket"
-    },
-    "F": {
-      "item": "minecraft:tropical_fish"
-    },
-    "Y": {
-      "item": "minecraft:yellow_wool"
-    },
-    "G": {
-      "item": "minecraft:green_wool"
-    },
-    "W": {
-      "item": "minecraft:white_wool"
-    }
+    "B": "minecraft:water_bucket",
+    "F": "minecraft:tropical_fish",
+    "Y": "minecraft:yellow_wool",
+    "G": "minecraft:green_wool",
+    "W": "minecraft:white_wool"
   },
   "result": {
     "id": "minecraft:wet_sponge",

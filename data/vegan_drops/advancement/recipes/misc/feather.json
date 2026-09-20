@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:feather"
+        "recipes": "vegan_drops:feather"
       }
     },
     "has_paper": {

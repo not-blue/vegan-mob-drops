@@ -4,13 +4,13 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:string_from_wool"
+        "recipes": "vegan_drops:string_from_wool"
       }
     },
     "has_the_other_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:string_from_wheat"
+        "recipes": "vegan_drops:string_from_wheat"
       }
     },
     "has_wheat": {

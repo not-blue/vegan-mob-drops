@@ -7,9 +7,9 @@
     "x"
   ],
   "key": {
-    "x": {
-      "item": "minecraft:coal_block"
-    }
+    "x": [
+      "minecraft:coal_block"
+    ]
   },
   "result": {
     "id": "minecraft:black_dye",

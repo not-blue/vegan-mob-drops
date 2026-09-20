@@ -8,15 +8,9 @@
     "PSP"
   ],
   "key": {
-    "P": {
-      "item": "minecraft:paper"
-    },
-    "H": {
-      "item": "minecraft:honeycomb"
-    },
-    "S": {
-      "item": "minecraft:string"
-    }
+    "P": "minecraft:paper",
+    "H": "minecraft:honeycomb",
+    "S": "minecraft:string"
   },
   "result": {
     "id": "minecraft:rabbit_hide"

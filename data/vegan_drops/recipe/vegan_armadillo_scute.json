@@ -7,12 +7,8 @@
     "BAB"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:coarse_dirt"
-    },
-    "B": {
-      "item": "minecraft:bone_block"
-    }
+    "A": "minecraft:coarse_dirt",
+    "B": "minecraft:bone_block"
   },
   "result": {
     "id": "minecraft:armadillo_scute",

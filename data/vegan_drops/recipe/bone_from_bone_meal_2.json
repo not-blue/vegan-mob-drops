@@ -1,15 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "group": "vegan_bone",
   "pattern": [
     "x  ",
     " x ",
     "  x"
   ],
   "key": {
-    "x": {
-      "item": "minecraft:bone_meal"
-    }
+    "x": "minecraft:bone_meal"
   },
   "result": {
     "id": "minecraft:bone"

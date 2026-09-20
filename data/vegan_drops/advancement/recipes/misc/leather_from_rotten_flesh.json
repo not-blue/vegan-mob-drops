@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:leather_from_rotten_flesh_smelting"
+        "recipes": "vegan_drops:leather_from_rotten_flesh_smelting"
       }
     },
     "has_rotten_flesh": {
@@ -20,13 +20,13 @@
     "has_the_recipe_smoker": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:leather_from_rotten_flesh_smoking"
+        "recipes": "vegan_drops:leather_from_rotten_flesh_smoking"
       }
     },
     "has_the_recipe_campfire": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:leather_from_rotten_flesh_campfire"
+        "recipes": "vegan_drops:leather_from_rotten_flesh_campfire"
       }
     }
   },

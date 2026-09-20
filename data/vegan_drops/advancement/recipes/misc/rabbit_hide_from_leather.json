@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:rabbit_hide_from_leather"
+        "recipes": "vegan_drops:rabbit_hide_from_leather"
       }
     },
     "has_leather": {

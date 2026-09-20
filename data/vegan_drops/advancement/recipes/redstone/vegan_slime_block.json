@@ -4,7 +4,7 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_slime_block"
+        "recipes": "vegan_drops:vegan_slime_block"
       }
     },
     "has_honey_bottle": {

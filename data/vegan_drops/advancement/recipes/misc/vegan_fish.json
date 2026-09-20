@@ -1,10 +1,10 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_the_recipe": {
+    "has_cod_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_cod"
+        "recipes": "vegan_drops:vegan_cod"
       }
     },
     "has_bone_meal": {
@@ -20,19 +20,19 @@
     "has_salmon_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_salmon"
+        "recipes": "vegan_drops:vegan_salmon"
       }
     },
     "has_tropical_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "vegan_drops:vegan_tropical_fish"
+        "recipes": "vegan_drops:vegan_tropical_fish"
       }
     }
   },
   "requirements": [
     [
-      "has_the_recipe",
+      "has_cod_recipe",
       "has_bone_meal",
       "has_salmon_recipe",
       "has_tropical_recipe"

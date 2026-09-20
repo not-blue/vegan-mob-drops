@@ -7,12 +7,8 @@
     "HHH"
   ],
   "key": {
-    "H": {
-      "item": "minecraft:honey_block"
-    },
-    "B": {
-      "item": "minecraft:bone_meal"
-    }
+    "H": "minecraft:honey_block",
+    "B": "minecraft:bone_meal"
   },
   "result": {
     "id": "minecraft:honeycomb",
